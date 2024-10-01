@@ -1461,7 +1461,7 @@ body {
 .but{
   display: inline;
   display: flex;
-  width: 60vw;
+  width: 40vw;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -1476,7 +1476,7 @@ button {
   margin: 5px;
   display: inline-block;
   width: 150px;
-  height: 18px;
+  height: 25px;
   border-radius: 10px;
   border: 1px solid #d65f08;
   position: relative;
